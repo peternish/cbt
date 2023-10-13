@@ -1,0 +1,68 @@
+#mimg
+{
+    height: 100%;
+    width: 100%;
+}
+#mimg1
+{
+    height: 100%;
+    width:100%;
+}
+#mtitle
+{
+    margin-left: 40px;
+    color: #008CBA;
+}
+#head1
+{
+    color: #5f5f5f;
+    margin-left: 40px;
+}
+#head2
+{
+    color: black;
+  
+}
+#head3
+{
+    color: black;
+    margin-left: 40px;  
+}
+#p1
+{
+    margin-left: 40px;  
+}
+#button1
+{
+    height: 40px;
+    background-color: #008CBA;
+    color: white;
+    font-weight: 700;
+    width: 112px;
+    border-radius: 6px;
+}
+#button1:hover {
+    background-color: white;
+    border: 1px solid #008CBA;
+    color: #008CBA;
+    box-shadow: 6px 8px 12px #00000030;
+    
+  }
+#button2
+{
+    height: 40px;
+    background-color: white;
+    border: 1px solid #008CBA;
+    font-weight: 700;
+    color: #008CBA;
+    width: 112px;
+    border-radius: 6px;
+  
+}
+#button2:hover {
+    background-color: #008CBA;
+    color: white;
+  
+    box-shadow: 6px 8px 12px #00000030;
+    
+  }

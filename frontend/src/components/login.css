@@ -1,0 +1,45 @@
+.container5{
+    box-shadow: 7px 4px 18px #314042; 
+    width: 85%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+    margin-top: 15%;
+
+}
+#bid
+{
+width: 70%;
+height: 50px;
+opacity: 0.5;
+}
+#bid3
+{
+width: 50%;
+height: 50px;
+opacity: 0.5;
+}
+
+.container5 h1{
+font-size: 36px;
+font-weight: 400;
+text-align: center;
+}
+.container5 input{
+    width: 80%;
+    background: transparent;
+    border-right: 0px;
+    border:0px;
+    border-bottom: 1px solid white;
+    font-size: 18px;
+    margin-top: 10px;
+    height: 40px;
+    color: black;
+    margin-left: 10%;
+    }
+
+#span1
+{
+    color:black;
+    font-weight: 600;
+}
